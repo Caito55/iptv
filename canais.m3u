@@ -15,13 +15,9 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w332315447.m3u8
 #EXTINF:-1,PAKA PAKA
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w352966256.m3u8
-#EXTINF:-1,iptvtools_1
-http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
-#EXTINF:-1,iptvtools_7
-https://vivo.solumedia.com:19360/crossing/crossing.m3u8?PlaylistM3UCL
-#EXTINF:-1,iptvtools_14
+#EXTINF:-1 tvg-name="RetroPlus" tvg-logo="https://www.m3u.cl/logo/5_Retro_Plus_TV_Senal_2_Roku.png", RetroPlus
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,iptvtools_15
+#EXTINF:-1 tvg-name="RetroPlus 2" tvg-logo="https://www.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png", RetroPlus 2
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,iptvtools_19
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
