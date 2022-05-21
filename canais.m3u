@@ -25,21 +25,3 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="VideoHD" tvg-logo="", Video HD peliculas
 https://videohd.live:19360/8010/8010.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="AMC" tvg-logo="", AMC
-https://github.com/fgillusi/IPTV-Argentina/blob/main/AMC.m3u8
-#EXTINF:-1 tvg-name="DiscoveryHD" tvg-logo="", DiscoveryHD
-https://github.com/fgillusi/IPTV-Argentina/blob/main/DiscoveryHD.m3u8
-#EXTINF:-1 tvg-name="DiscoveryHomeHealthHD" tvg-logo="", DiscoveryHomeHealthHD
-https://github.com/fgillusi/IPTV-Argentina/blob/main/DiscoveryHomeHealthHD.m3u8
-#EXTINF:-1 tvg-name="DiscoveryTurbo" tvg-logo="", DiscoveryTurbo
-https://github.com/fgillusi/IPTV-Argentina/blob/main/DiscoveryTurbo.m3u8
-#EXTINF:-1 tvg-name="Discovery_Science" tvg-logo="", Discovery_Science
-https://github.com/fgillusi/IPTV-Argentina/blob/main/Discovery_Science.m3u8
-#EXTINF:-1 tvg-name="Theater_HD" tvg-logo="", Theater_HD
-https://github.com/fgillusi/IPTV-Argentina/blob/main/Theater_HD.m3u8
-#EXTINF:-1 tvg-name="TruTV" tvg-logo="", TruTV
-https://github.com/fgillusi/IPTV-Argentina/blob/main/TruTV.m3u8
-#EXTINF:-1 tvg-name="HBO_Signature" tvg-logo="", HBO_Signature
-https://github.com/fgillusi/IPTV-Argentina/blob/main/HBO_Signature.m3u8
-#EXTINF:-1 tvg-name="NatGeoHD" tvg-logo="", NatGeoHD
-https://github.com/fgillusi/IPTV-Argentina/blob/main/NatGeoHD.m3u8
