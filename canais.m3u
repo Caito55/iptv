@@ -23,6 +23,74 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="VideoHD" tvg-logo="", Video HD peliculas
 https://videohd.live:19360/8010/8010.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="TV Pública" group-title="Argentina - ארגנטינה" tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/2/0/8/0/2080123/2080123_275_logomedio_12599415,192x192,r:1.jpg",TV Pública
+http://prepublish.f.qaotic.net/a06/ngrp:c7live02Internacional-20034_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
+ 
+#EXTINF:-1 tvg-id="Paka Paka" group-title="Argentina - ארגנטינה" tvg-logo="",Paka Paka
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+ 
+#EXTINF:-1 tvg-id="One TV" group-title="Argentina - ארגנטינה" tvg-logo="",One TV
+http://server5.stweb.tv/radioone/live/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Canal Rural" group-title="Argentina - ארגנטינה" tvg-logo="",Canal Rural
+rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1
+ 
+#EXTINF:-1 tvg-id="DxTV" group-title="Argentina - ארגנטינה" tvg-logo="",DxTV
+http://186.33.227.199/DXTV/smil:DXTV.smil/chunklist_w788509661_b800000_slesp.m3u8
+ 
+#EXTINF:-1 tvg-id="C5N" group-title="Argentina - ארגנטינה" tvg-logo="http://www.buenosaires54.com/images/c5n1.jpg",C5N
+http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DfJUi-0L_8ZY&mode=3
+ 
+#EXTINF:-1 tvg-id="Canal 4 (Misiones)" group-title="Argentina - ארגנטינה" tvg-logo="",Canal 4 (Misiones)
+rtmp://184.154.28.210:1935/canal4/canal4
+ 
+#EXTINF:-1 tvg-id="DTV Diputados" group-title="Argentina - ארגנטינה" tvg-logo="",DTV Diputados
+http://lsdhcdnhls-lh.akamaihd.net/i/hcdnarsatHLS_2@301805/master.m3u8
+ 
+#EXTINF:-1 tvg-id="TVP" group-title="Argentina - ארגנטינה" tvg-logo="",TVP
+http://prepublish.f.qaotic.net/a02/ngrp:c7live01-20034_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
+ 
+#EXTINF:-1 tvg-id="el 13" group-title="Argentina - ארגנטינה" tvg-logo="",el 13
+http://prepublish.f.qaotic.net/a03/ngrp:el13_live01-100083_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
+ 
+#EXTINF:-1 tvg-id="AMERICA 24" group-title="Argentina - ארגנטינה" tvg-logo="http://3.bp.blogspot.com/-NesnOUZT0zY/Umg0HN_TZWI/AAAAAAAAaks/cDTGVN7fbM0/s76/a24-america-24.PNG",AMERICA 24
+http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
+ 
+#EXTINF:-1 tvg-id="Canal 26" group-title="Argentina - ארגנטינה" tvg-logo="",Canal 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w312671014_b1264000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-id="TODO NOTICIAS" group-title="Argentina - ארגנטינה" tvg-logo="http://laalameda.files.wordpress.com/2012/02/tn.jpg",TODO NOTICIAS
+http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3D0tek2aa8hAQ&mode=3
+ 
+#EXTINF:-1 tvg-id="A24" group-title="Argentina - ארגנטינה" tvg-logo="",A24
+http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DURAMVgoXyec&mode=3
+ 
+#EXTINF:-1 tvg-id="Canal 6 San Rafael" group-title="Argentina - ארגנטינה" tvg-logo="",Canal 6 San Rafael
+http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DaxnhmU97Ktg&mode=3
+ 
+#EXTINF:-1 tvg-id="Canal 7 Mendoza" group-title="Argentina - ארגנטינה" tvg-logo="",Canal 7 Mendoza
+http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DCk6wohdxivM&mode=3
+ 
+#EXTINF:-1 tvg-id="CANAL 13 SAN JUAN" group-title="Argentina - ארגנטינה" tvg-logo="",CANAL 13 SAN JUAN
+http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3D0PXhBhkCKzk&mode=3
+ 
+#EXTINF:-1 tvg-id="Magazine" group-title="Argentina - ארגנטינה" tvg-logo="",Magazine
+http://prepublish.f.qaotic.net/a01/ngrp:magazine_live01-100083_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
+ 
+#EXTINF:-1 tvg-id="ORBE 21" group-title="Argentina - ארגנטינה" tvg-logo="",ORBE 21
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
+ 
+#EXTINF:-1 tvg-id="Tecnopolis" group-title="Argentina - ארגנטינה" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Tec.png/250px-Tec.png",Tecnopolis
+http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
+ 
+#EXTINF:-1 tvg-id="TELEMAX" group-title="Argentina - ארגנטינה" tvg-logo="",TELEMAX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Quiero Musica" group-title="Argentina - ארגנטינה" tvg-logo="",Quiero Musica
+mms://200.42.92.6:1755/qmusica
+ 
+#EXTINF:-1 tvg-id="Senal Provincial" group-title="Argentina - ארגנטינה" tvg-logo="",Senal Provincial
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/colorLogoPNG.png" tvg-url="" group-title="",70s Cinema
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png" tvg-url="" group-title="",Estrellas de Acción
@@ -83,5 +151,3 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3d06fb60d80007
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/colorLogoPNG.png" tvg-url="" group-title="",El Reino Infantil
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 tvg-name="America TV" tvg-logo="https://www.m3u.cl/logo/107_AR___America_2.png", America TV
-https://www.youtube.com/watch?v=zcWXboTnous
