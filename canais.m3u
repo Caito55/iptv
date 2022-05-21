@@ -5,6 +5,8 @@ http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?Playlis
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,eltrece |HD
 https://raw.githubusercontent.com/fgillusi/IPTV-Argentina/main/ArtearHD.m3u8
+#EXTINF:-1 tvg-name="Canal 9" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAIAAYQMBEQACEQEDEQH/xAAcAAABBAMBAAAAAAAAAAAAAAAABAUGBwECAwj/xAA9EAABAwMBBQQIBAQGAwAAAAABAgMEAAURBhIhMUFhBxMiURQjUnGBkaHBMkKSsRYzYnIVgrLR4fAmRFP/xAAbAQEAAgMBAQAAAAAAAAAAAAAAAQIDBAUGB//EADIRAAIBAwIDBQYGAwAAAAAAAAABAgMEERIhBTFBUWFxsdETIkKBofAGFDKRweEVUvH/2gAMAwEAAhEDEQA/ALxoAoDm+83HaU8+tDbSBla1qACR5kmhKTbwivtRdqlviKUxZWDOcG4vKJQ0PdzV9B1qurB2Lfg1Sa1VnpXZ1/ogV01/qa4FQ/xBUZB/JFT3ePcfxfWquR16fDbWnyjnx3+nL6DA/c7nIJMi4THc8dt9R+9QbKo01yiv2RzbnT2TlmbKbPmh5Q+9TsQ6NN84r9h4tuuNT20p7q7PuoB3oknvQemVZPyNF3M1qnD7apzjjw2J3p3tcYdUlnUEP0cn/wBiNlSPijiPgTU6u05dfg0lvRee5+vLyLKgzY1wjIkwn232F/hcbUFA1dPJxpwlB6ZLDFFCoUAUAUA33y8QrFb3J1xdDbKNwH5lq5JSOZNDLRozrTUILcozVGq7jqqQS6Sxbkn1UVKtx6q9o/tyrDOeOZ6yysadrHK3l2+gx90BwFYtWTeNS3U6iDBbqdQwYLdTqGDQt01DABnIyRurJFZKt4HjS2pJ+mZ3exHMx1n1zCvwL69D1G/9qyI1ri1pXEcTXz6r77C+dPXyHfYIkw1YIwHGifE2fI/Y86lo8rdWlS1non8n2odag1goDnJfaisOPyFpbaaQVrWo4CUgZJNCVFyaS5nnzV2o39XXsuZUiCySI7fkn2j/AFH/AI5VinPSsnsbCzVvTx8T5/fcIw2kAADAFamW9zewwKKjUQYLdTkGhbqcg17up1A3ajFQ2iMJ/es1ODlv0KSkkZca8q2cGMSuNUJHnSd9lWKeh+MclG5TZO51vmk/Y8qlb7EVreF1SdKfyfYy/LZOYuUFmbEXtsvJ2kn7HqOBqp4utSnRqOnNboVUMZWvbRflRLXHszCsOTDtvYO8NJPD4n/Sah9h2OD2+uo6r6eZVcBGwztc1HPwrUryzLB7GlTzHIq26wl/ZmQqhR0yV6Q0bKv4EqQsxrfnHeY8TvmE5/f96yUqTnv0OPxHiNO0eiKzPy8fQsyBpGwwUBLVtYcUOK30BxR+KvtW2qcF0PNVeIXNR5c2vDbyOsrTFjlAh61Q/wC5DQSfmMGkqcJLDRWnfXMHlTfn5kJ1TocwmlSrWVLYSMrbPFA8+orG5TorfeP1Xr5nas+JRrvRU2l9H6MgrzJSSCMGtiMlOOqL2Oo008MSONVIE5SULChxBqC0Xh5LJ7JryUS37M6r1boL7GTwUPxJHvG/4GpZzOO2ylCNxHps/wCPT9i0aqeYPOvaZcjctZ3BQVluOoRkdNjcR+ra+dVXNs9dwyl7O2j37janwoSPIYrRk8ts9XCklFI22qqW9mOmmrYb1fIlv3hDq/WKHJA3q+g+tWjHVJI0OIVla20q3Zy8eh6CjsNxmEMMIShptIShCRgJA4Cugttj5rKUpycpPLZ0oVCgMHeCKAqTWloRb7s420nDLie8Z6A8U/A/auepO2rY+FnsuH1vzdqpP9S2+/vmRVbea6ZlEzjVQSKLLNNqvECcFFIYeSpRHs5wofImj5GadP29tKn2p/v0PQ1VPAHlq8Od7d5zp/PJcVn3qJqq5Hu6MdNNR7EOOxzxx31zcnoVLY17umS2omnZI0n+KHScbSYiyn9Sf+/Gs9DDmee/E0n+SWP9l5MuOt08GFAFAFAQLtQCQq3L/P6wfDw1o3izg9N+HW37ReH8lfrTk5FbVtLVSWTq146Zs4rRms5jEUpGEH3VKNu2fMn/APFq/bV+qsGWcP8AxhVV3aLF1ltH8ryx9TVkdiO8U+1LyHaJ62M0vzTv99cyqtM2jqUp5gjoW6pky6h70RPTatTQ33TstOEsrPkFbh9cVkoz0zTObxig7iznFc1uvl/ReNdM+dBQBQAaAqztIuKJV8bjNnKYjeyrB/OreR8gK0Ll6p4XQ9pwC2dO2dSXxP6L7ZGG/EjNbFmsQZt3m00arRW2aoimDCfcKG3bjx/DbvWseTW/PQGbtDtxt+q7ijB2VPF1JxxC/F9CSPhQmxqKtZ05rosP5bCGxvglUdXPxI+9aN3DlNHQozx7o793Wlk2dRqpoEYI3GmSVIsbRus21Mt2+8uBt1ACW5Cz4XByCjyPXn7636FwsaZHkeK8GlGTrW6yuq7PDuJ4lQUMggg8CK3DzZmgIjq7WUe1MuRoC0P3A+HCTlLPVXXpWvWrqCwuZ2+GcHqXMlOqsQ8/D1KoU4talLcUVLUSpSjxUTxJrTUtXM9zGKSxHkOUdspYTniRk106MNMEca5nqqtowpFZTAJkw1T5zENGdp91LQI5bRxn60NpTVGk6j6JsvT0ON/8EfprGeD9tPtK87Y7EXo0e8tJz3XqZGPZJ8J+BJH+YU6noeAXSUpW8uu6/n6eRUKStl0KScKScg0aTWGehacXgk9ultzWsjc4keJP3rj16LpPuM0Ziot1gyW1GC30qck6hVDuNxgJ2Yc2Qyn2UuHZ+XCrxqzjyZr1bWhWeakE/kbS7vdZiCiRcZS0HinvCAfgKl1pvmyKVnbUnmFNJ+A3d0BuAwOlVybmoUQ4Xeq21jwD61t2tF1HqfJGtcXGhaY8xxUmuscs4OJ3ULRWWSDs7tBk3hVydT6qICGyebihj6JJ+YqsmaPGLrRRVFc5eS9X5Fm1Q8wcZkVmbFdjSUBbLqChaTzBoWhOVOSnF4aPPWr9OP6fuq4jwUpo+KO8R/MR/uOdStz31ldQvaKmufXuYxtLcYcC21FKxwINVlFSWJIz4xzH6Fe21AIlp2Fe2kbviOVc6rYtb09xuOzSmnk7TLiFj+k5rRnGUHiSwNRsW6qmTqMd0VHCUknyAq0cyeENaXMVR7cVEKe3J9kcTXQoWMnvU2XYa9S6S2gLlNpSAEjAA4CuqkorCNFtt5ZzLZJwKkZMMQHp8puJGRtOLOOgHMnpUPYTrQowc58kWlZ7czare1Dj/hQN6jxUeZNYmeTuK8q9R1JdRbQwhQDVqOww9Q29USakjG9t1P4m1eYobVpd1LWp7SH/AEonUump+npZYnt5bUfVPpHgcHTyPSrZPcWl7RvIaoPfquqGXYIqTa04MoJScgkHzFQ0nsycClM2UkYTIdA/vNY3QpvnFE6I9hItISVu+lNurUojZUCo58wftWWEYx2SNC9jjDRJKuaIUB2hw3pr4YjIKlnj5JHmaN4MVWrClHVNk7slmYtTJ2PG+v8AmOEceg6VibyedurudxLfkuSHSoNUKAKAKATzoUafGXGmMoeYWMKQtOQaF6dSdKSnB4ZW+oeysKUp6wydnn6PIJx8Ff7/ADqcs9HafiFr3biOe9ehBLlpe92xREy2SUj20I20/qTkU1Heo8Qtq36Jry8xn4HB41OUbg86UeDV2Sknc6hSfv8AapT3NW8jmnnsJ7GhS5RxHjOudUpOPnwq+UcWdanT/VJIfIGk33CFT3A0n2Eb1fPgPrVXPsOdW4pFbUlnvZKIUGPBa7qM2EJ544n3nnVG8nIq1Z1ZapvIpqDGFAFAFAFAFAFAFAcHYkd7+cw05/egGhZTnHk8A3CitHLUdlB/pbAoS6k5c2zsBihQzQBQBQBQBQBQBQDcxeIz96lWlCXPSYzSHVkgbOFcMHPTyqcPGQONQAoAoAoAoAoAoAoAoAoCO6jvM1i4QrNZWml3KWFL7x/Pdx2k8VqA3nyA8/rZJYywIJ8/UGmAzNu8yLc7Yp1LclTcXuHI+0cBQ8RCk5O8canEZbIHNLy2Nb6meaIC27W0tJ47wFEU+FAZdP3bXOqLMXrdJgx+6cUlUl1ACnVYB2Up2SABneSOdWkoRYN7ZrS8PaWv/pYbRdrTsAuBsYOVFO8cMgpVw3cKhwWUCZaVuEm5aWhTpawqQ8xtrUEgAnfyqslh4BDLD2gTGtDS7zdy3IliZ6NHQEhAUotpUAcchlR9wq8qfvYQFMhXaDDtir09Ngr2Ed65be4HhRjJGcZJA5bXnvNR7mcA0Vreb/iVguAUlFkuY7t1pSASy6DsqG1jOASD7gaaFhrqB215f7hAl2q02JaE3Ge9jKkBYSjhkg9Tn3JNRGKabYG8XrUWprtMg6aksQoUBXduznWgtTqxu3AgjBIO7HDfneBU4UVlgWaZ1Bd2dRu6a1MGVyw33seUyNkPJG/eN2/GeAH4T0zDisZQJrVAQfW1rCL/AAL4/BkToKWTFltxirvGk5ylwBJBIBJzjlv92SD2wBF/4ZcHGolut1wujjy0pU00ZGygZ3qWVqCUgdTmnvLcC9xhwas1OUtL2DaW0oOycE7KtwPM1HwoB2QsusaR2HmltL9JWdlaSk8ByNKn6gRm12qbOXr+MzHdDr6gWdpBAcIcdVgE7jn71dtLSBXpbWL8Wws2Fqx3B27NILTaA2Eo54K8nKAOe7/iJRy85AyWTTU67dm8piKw6mVHunpDbTiSkugMoSQM9CfiMVZySkAaa0MmKlD2kLqLsAAYaHHwSvp484z0z0pmfbsSTK66VjTOz0wbfbXYLiE+lMxXXS4tt3iU7RJO8Ejjz5VRS97LIG3s8YnX6/vaivDagqIwiKwFJIyrZ8St/TJ/znypPCWEBikaetNhvs5vVtklzIDrhXEmx1OAJSSThWyodBv35Hkc1dSbXusEi0LbtOSL6Zlk0zcIjMVJUxPfkObClEFKgEKWQfCevPOycZrNyxuwWPWIH//Z", Canal 9
+https://raw.githubusercontent.com/fgillusi/IPTV-Argentina/main/Canal9.m3u8
 #EXTINF:-1,Nettv
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 #EXTINF:-1,IP
@@ -23,74 +25,6 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="VideoHD" tvg-logo="", Video HD peliculas
 https://videohd.live:19360/8010/8010.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="TV Pública" group-title="Argentina - ארגנטינה" tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/2/0/8/0/2080123/2080123_275_logomedio_12599415,192x192,r:1.jpg",TV Pública
-http://prepublish.f.qaotic.net/a06/ngrp:c7live02Internacional-20034_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
- 
-#EXTINF:-1 tvg-id="Paka Paka" group-title="Argentina - ארגנטינה" tvg-logo="",Paka Paka
-http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
- 
-#EXTINF:-1 tvg-id="One TV" group-title="Argentina - ארגנטינה" tvg-logo="",One TV
-http://server5.stweb.tv/radioone/live/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="Canal Rural" group-title="Argentina - ארגנטינה" tvg-logo="",Canal Rural
-rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1
- 
-#EXTINF:-1 tvg-id="DxTV" group-title="Argentina - ארגנטינה" tvg-logo="",DxTV
-http://186.33.227.199/DXTV/smil:DXTV.smil/chunklist_w788509661_b800000_slesp.m3u8
- 
-#EXTINF:-1 tvg-id="C5N" group-title="Argentina - ארגנטינה" tvg-logo="http://www.buenosaires54.com/images/c5n1.jpg",C5N
-http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DfJUi-0L_8ZY&mode=3
- 
-#EXTINF:-1 tvg-id="Canal 4 (Misiones)" group-title="Argentina - ארגנטינה" tvg-logo="",Canal 4 (Misiones)
-rtmp://184.154.28.210:1935/canal4/canal4
- 
-#EXTINF:-1 tvg-id="DTV Diputados" group-title="Argentina - ארגנטינה" tvg-logo="",DTV Diputados
-http://lsdhcdnhls-lh.akamaihd.net/i/hcdnarsatHLS_2@301805/master.m3u8
- 
-#EXTINF:-1 tvg-id="TVP" group-title="Argentina - ארגנטינה" tvg-logo="",TVP
-http://prepublish.f.qaotic.net/a02/ngrp:c7live01-20034_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
- 
-#EXTINF:-1 tvg-id="el 13" group-title="Argentina - ארגנטינה" tvg-logo="",el 13
-http://prepublish.f.qaotic.net/a03/ngrp:el13_live01-100083_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
- 
-#EXTINF:-1 tvg-id="AMERICA 24" group-title="Argentina - ארגנטינה" tvg-logo="http://3.bp.blogspot.com/-NesnOUZT0zY/Umg0HN_TZWI/AAAAAAAAaks/cDTGVN7fbM0/s76/a24-america-24.PNG",AMERICA 24
-http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
- 
-#EXTINF:-1 tvg-id="Canal 26" group-title="Argentina - ארגנטינה" tvg-logo="",Canal 26
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w312671014_b1264000_sleng.m3u8
- 
-#EXTINF:-1 tvg-id="TODO NOTICIAS" group-title="Argentina - ארגנטינה" tvg-logo="http://laalameda.files.wordpress.com/2012/02/tn.jpg",TODO NOTICIAS
-http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3D0tek2aa8hAQ&mode=3
- 
-#EXTINF:-1 tvg-id="A24" group-title="Argentina - ארגנטינה" tvg-logo="",A24
-http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DURAMVgoXyec&mode=3
- 
-#EXTINF:-1 tvg-id="Canal 6 San Rafael" group-title="Argentina - ארגנטינה" tvg-logo="",Canal 6 San Rafael
-http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DaxnhmU97Ktg&mode=3
- 
-#EXTINF:-1 tvg-id="Canal 7 Mendoza" group-title="Argentina - ארגנטינה" tvg-logo="",Canal 7 Mendoza
-http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DCk6wohdxivM&mode=3
- 
-#EXTINF:-1 tvg-id="CANAL 13 SAN JUAN" group-title="Argentina - ארגנטינה" tvg-logo="",CANAL 13 SAN JUAN
-http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3D0PXhBhkCKzk&mode=3
- 
-#EXTINF:-1 tvg-id="Magazine" group-title="Argentina - ארגנטינה" tvg-logo="",Magazine
-http://prepublish.f.qaotic.net/a01/ngrp:magazine_live01-100083_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
- 
-#EXTINF:-1 tvg-id="ORBE 21" group-title="Argentina - ארגנטינה" tvg-logo="",ORBE 21
-http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
- 
-#EXTINF:-1 tvg-id="Tecnopolis" group-title="Argentina - ארגנטינה" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Tec.png/250px-Tec.png",Tecnopolis
-http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
- 
-#EXTINF:-1 tvg-id="TELEMAX" group-title="Argentina - ארגנטינה" tvg-logo="",TELEMAX
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="Quiero Musica" group-title="Argentina - ארגנטינה" tvg-logo="",Quiero Musica
-mms://200.42.92.6:1755/qmusica
- 
-#EXTINF:-1 tvg-id="Senal Provincial" group-title="Argentina - ארגנטינה" tvg-logo="",Senal Provincial
-http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/colorLogoPNG.png" tvg-url="" group-title="",70s Cinema
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png" tvg-url="" group-title="",Estrellas de Acción
