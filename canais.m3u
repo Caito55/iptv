@@ -1,6 +1,4 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tA5hQ1K.png" group-title="General" user-agent="iPhone",América TV (720p)
-#EXTVLCOPT:http-user-agent=iPhone
+#EXTINF:-1,America TV
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 #EXTINF:-1,eltrece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
