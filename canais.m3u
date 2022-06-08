@@ -37,6 +37,6 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 #EXTINF:-1,Multivision
 https://panel.dattalive.com/8250/8250/playlist.m3u8
 #EXTINF:-1,AMC
-http://edge10-sl.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC-mp4a_144800_spa=20001.m3u8 
-#EXTINF:-1,AMC
-http://edge10-sl.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC-avc1_678000=10000.m3u8
+https://raw.githubusercontent.com/fgillusi/IPTV-Argentina/main/AMC.m3u8
+#EXTINF:-1,DiscoveryHD
+https://raw.githubusercontent.com/fgillusi/IPTV-Argentina/main/DiscoveryHD.m3u8
