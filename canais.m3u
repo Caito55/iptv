@@ -1,5 +1,4 @@
-#EXTINF:-1,America TV
-https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+
 #EXTINF:-1,eltrece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,eltrece |HD
@@ -83,36 +82,11 @@ http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/42988
 
 #EXTINF:-1,TruTv Lat
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/64649
-#EXTINF:-1,AMC
-https://raw.githubusercontent.com/fgillusi/IPTV-Argentina/main/AMC.m3u8
+#EXTINF:-1 tvg-id="UNIVERSAL TV" tvg-name="UNIVERSAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/500px-Universal_TV_logo.svg.png" group-title="FILMES E SÉRIES",UNIVERSAL TV
 
-#EXTINF:-1,ArtearHD
-https://raw.githubusercontent.com/fgillusi/IPTV-Argentina/main/ArtearHD.m3u8
-https://raw.githubusercontent.com/fgillusi/IPTV-Argentina/main/Canal7.m3u8
-https://raw.githubusercontent.com/fgillusi/IPTV-Argentina/main/Canal9.m3u8
-https://raw.githubusercontent.com/fgillusi/IPTV-Argentina/main/DiscoveryHD.m3u8
-https://raw.githubusercontent.com/fgillusi/IPTV-Argentina/main/DiscoveryHomeHealthHD.m3u8
-https://raw.githubusercontent.com/fgillusi/IPTV-Argentina/main/DiscoveryTurbo.m3u8
-https://raw.githubusercontent.com/fgillusi/IPTV-Argentina/main/Discovery_Science.m3u8
-https://raw.githubusercontent.com/fgillusi/IPTV-Argentina/main/ESPN2_UY.m3u8
-https://raw.githubusercontent.com/fgillusi/IPTV-Argentina/main/ESPN3_Uy-Py.m3u8
-https://raw.githubusercontent.com/fgillusi/IPTV-Argentina/main/ESPN_Premiun_HD.m3u8
-https://raw.githubusercontent.com/fgillusi/IPTV-Argentina/main/ESPN_UY.m3u8
-https://raw.githubusercontent.com/fgillusi/IPTV-Argentina/main/E_Entertainment_Television.m3u8
-https://raw.githubusercontent.com/fgillusi/IPTV-Argentina/main/Encuentro.m3u8
-https://raw.githubusercontent.com/fgillusi/IPTV-Argentina/main/Eurochannel.m3u8
-https://raw.githubusercontent.com/fgillusi/IPTV-Argentina/main/FOXHD.m3u8
-https://raw.githubusercontent.com/fgillusi/IPTV-Argentina/main/HBO_Plus.m3u8
-https://raw.githubusercontent.com/fgillusi/IPTV-Argentina/main/HBO_Signature.m3u8
-https://raw.githubusercontent.com/fgillusi/IPTV-Argentina/main/HistoryHD.m3u8
-https://raw.githubusercontent.com/fgillusi/IPTV-Argentina/main/History_2.m3u8
-https://raw.githubusercontent.com/fgillusi/IPTV-Argentina/main/Home_and_Garden.m3u8
-https://raw.githubusercontent.com/fgillusi/IPTV-Argentina/main/NatGeoHD.m3u8
-https://raw.githubusercontent.com/fgillusi/IPTV-Argentina/main/Playboy.m3u8
-https://raw.githubusercontent.com/fgillusi/IPTV-Argentina/main/SonyHD.m3u8
-https://raw.githubusercontent.com/fgillusi/IPTV-Argentina/main/Space.m3u8
-https://raw.githubusercontent.com/fgillusi/IPTV-Argentina/main/Studio_Universal.m3u8
-https://raw.githubusercontent.com/fgillusi/IPTV-Argentina/main/TNTSeries.m3u8
-https://raw.githubusercontent.com/fgillusi/IPTV-Argentina/main/TelefeHD.m3u8
-https://raw.githubusercontent.com/fgillusi/IPTV-Argentina/main/Theater_HD.m3u8
-https://raw.githubusercontent.com/fgillusi/IPTV-Argentina/main/TruTV.m3u8
+
+#EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/400px-Canal_Viva_2018_wordmark.svg.png" group-title="VARIEDADES",VIVA
+http://tv.meuserver.me:8080/665473/998445/184333
+ 
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/200px-Warner2018LA.png" group-title="FILMES E SÉRIES",WARNER CHANNEL
+http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1542
