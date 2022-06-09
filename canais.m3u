@@ -39,75 +39,49 @@ https://panel.dattalive.com/8250/8250/playlist.m3u8
 #EXTINF:-1,DeporTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w332315447.m3u8
 
-#EXTINF:-1,iptvtools_4
+#EXTINF:-1,SBT
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/38420
-#EXTINF:-1,iptvtools_5
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/61960
-#EXTINF:-1,iptvtools_10
+#EXTINF:-1,Terra viva
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
-#EXTINF:-1,iptvtools_11
+#EXTINF:-1,Band News
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/42411
-#EXTINF:-1,iptvtools_12
+#EXTINF:-1,NEWS
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36917
-#EXTINF:-1,iptvtools_13
+#EXTINF:-1,RN 
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/37050
 #EXTINF:-1,iptvtools_14
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/38421
 #EXTINF:-1,iptvtools_15
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36946
-#EXTINF:-1,iptvtools_16
+#EXTINF:-1,CNN BRASIL
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/65041
 #EXTINF:-1,iptvtools_18
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/42903
-#EXTINF:-1,iptvtools_19
+#EXTINF:-1,Arte1
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/41467
 #EXTINF:-1,iptvtools_20
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/86533
 #EXTINF:-1,iptvtools_21
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/63777
-#EXTINF:-1,iptvtools_22
+#EXTINF:-1,LifeTime
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/40265
-#EXTINF:-1,iptvtools_23
+#EXTINF:-1,ToonCAST
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/63648
-#EXTINF:-1,iptvtools_24
+#EXTINF:-1,Curta!
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/41472
-#EXTINF:-1,iptvtools_25
+#EXTINF:-1,Band Sports
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/50656
-#EXTINF:-1,iptvtools_27
+#EXTINF:-1,MTV ]live[
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/40518
-#EXTINF:-1,iptvtools_28
+#EXTINF:-1,MTV
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/40266
-#EXTINF:-1,iptvtools_29
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/61963
-#EXTINF:-1,iptvtools_30
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/75175
-#EXTINF:-1,iptvtools_31
+#EXTINF:-1,News
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36917
-#EXTINF:-1,iptvtools_32
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/38425
-#EXTINF:-1,iptvtools_33
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/68050
-#EXTINF:-1,iptvtools_34
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/64592
-#EXTINF:-1,iptvtools_35
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/41515
-#EXTINF:-1,iptvtools_36
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/42984
-#EXTINF:-1,iptvtools_37
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/72890
-#EXTINF:-1,iptvtools_38
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/61976
-#EXTINF:-1,iptvtools_39
+#EXTINF:-1,Globo
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/42988
-#EXTINF:-1,iptvtools_40
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/42986
-#EXTINF:-1,iptvtools_41
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/38381
-#EXTINF:-1,iptvtools_42
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/42969
-#EXTINF:-1,iptvtools_43
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/51215
-#EXTINF:-1,iptvtools_44
+
+
+#EXTINF:-1,TruTv Lat
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/64649
 
 https://raw.githubusercontent.com/fgillusi/IPTV-Argentina/main/AMC.m3u8
