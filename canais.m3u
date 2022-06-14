@@ -84,19 +84,14 @@ http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/64649
 
 #EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/400px-Canal_Viva_2018_wordmark.svg.png" group-title="VARIEDADES",VIVA
 http://tv.meuserver.me:8080/665473/998445/184333
- 
-#EXTM3U
+
 #EXTINF:-1,26 tv HD
 http://200.115.193.177/live/26hd-720/.m3u8
-#EXTINF:-1,El Trece
-https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,iptvtools_12
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=729984.m3u8
-#EXTINF:-1,iptvtools_20
+#EXTINF:-1,AM550 la primera
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
-#EXTINF:-1,iptvtools_21
+#EXTINF:-1,Santafe canal
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
-#EXTINF:-1,iptvtools_33
+#EXTINF:-1,Radio Disney
 https://24253.live.streamtheworld.com/DISNEY_ARG_BA.mp3?dist=web-radiodisney-disneylatino
 #EXTINF:-1,iptvtools_35
 https://cdns-am79056-1.planisys.net/hls/chunklist.m3u8
