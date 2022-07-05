@@ -1,3 +1,29 @@
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="Canales Pocholo", EL TRECE
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="08 | TNT SPORTS" tvg-logo="https://i.postimg.cc/rphNQBqZ/tnt-sport.jpg" group-title="Canales Pocholo",08 | TNT SPORTS
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/16848
+#EXTINF:-1 tvg-id="" tvg-name="10 | TNT SPORT 2" tvg-logo="https://i.postimg.cc/xdjPGfVb/tnt-sport-2.jpg" group-title="Canales Pocholo",10 | TNT SPORT 2
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/16850
+#EXTINF:-1 tvg-id="" tvg-name="11 | TNT SPORTS" tvg-logo="https://i.postimg.cc/rphNQBqZ/tnt-sport.jpg" group-title="Canales Pocholo",11 | TNT SPORTS
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/16851
+#EXTINF:-1 tvg-id="" tvg-name="ARG: A24" tvg-logo="" group-title="Canales Pocholo",ARG: A24
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95522
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL 9 HD" tvg-logo="" group-title="Canales Pocholo",ARG: CANAL 9 HD
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95523
+#EXTINF:-1 tvg-id="" tvg-name="ARG: C5N HD" tvg-logo="" group-title="Canales Pocholo",ARG: C5N HD
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95524
+#EXTINF:-1 tvg-id="" tvg-name="ARG: C5N FHD" tvg-logo="" group-title="Canales Pocholo",ARG: C5N FHD
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95525
+#EXTINF:-1 tvg-id="" tvg-name="ARG: A24 HD" tvg-logo="" group-title="Canales Pocholo",ARG: A24 HD
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95526
+#EXTINF:-1 tvg-id="" tvg-name="ARG: America TV SD" tvg-logo="" group-title="Canales Pocholo",ARG: America TV SD
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95527
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Television Publica HD" tvg-logo="" group-title="Canales Pocholo",ARG: Television Publica HD
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95530
+#EXTINF:-1 tvg-id="" tvg-name="ARG: El Nueve HD" tvg-logo="" group-title="Canales Pocholo",ARG: El Nueve HD
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95532
+
+
 #EXTINF:-1,eltrece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,eltrece |HD
