@@ -4,8 +4,11 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Nicolas0919/Guia-EPG/master/GuiaEPG.xml"
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml"
 
-#EXTINF:-1 tvg-id="A24.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/A24_%282019-1%29.png/512px-A24_%282019-1%29.png" group-title="Canales Pocholo" user-agent="iPhone",A24 (720p)
-https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+#EXTINF:-1 tvg-id="A24.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/A24_%282019-1%29.png/512px-A24_%282019-1%29.png" group-title="Canales Pocholo" user-agent="iPhone",Canal 26
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL 9 HD" tvg-logo="" group-title="Canales Pocholo",ARG: CANAL 9 HD
+https://live.canalnueve.tv/canal.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TYC_SPORTS.jpg/800px-TYC_SPORTS.jpg" group-title="Canales Pocholo", TyC SPORT 
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
@@ -127,12 +130,6 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1657761390/ei/D
 
 #EXTINF:-1 group-title="Canales Pocholo" tvg-logo="https://yt3.ggpht.com/6-ovkJ4kVGq-byBEgD8s-7bXIX-GlS7VS86wS72wVriBOI7w8T6GsIAahiDBrO88o5Ov-q7L=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Canal 30 San Juan - RÁDIO
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1657761391/ei/DhrPYqTwPKWR6QL8_pP4Dw/ip/13.66.63.209/id/bOoA7f5HHYg.1/source/yt_live_broadcast/requiressl/yes/tx/24174783/txs/24174780%2C24174781%2C24174782%2C24174783%2C24174805%2C24210080/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-KhuM0hnxDMTP3bmuyJ1R6Gi_OuGE/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgaR1KjTZ2wcxDYFyefGODHTN_JVjkZrwu5PP2j-G4B6UCIDPxF6r8RJr-awllTgp17SdPBEiCh5NJAiH0zqPox_BL/file/index.m3u8
-
-###########################################################################
-#                                                                         #
-
-#                                  >> https://github.com/guiworldtv       #
-###########################################################################
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="Canales Pocholo", EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="08 | TNT SPORTS" tvg-logo="https://i.postimg.cc/rphNQBqZ/tnt-sport.jpg" group-title="Canales Pocholo",08 | TNT SPORTS
@@ -143,8 +140,6 @@ http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/16850
 http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/16851
 #EXTINF:-1 tvg-id="" tvg-name="ARG: A24" tvg-logo="" group-title="Canales Pocholo",ARG: A24
 http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95522
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL 9 HD" tvg-logo="" group-title="Canales Pocholo",ARG: CANAL 9 HD
-http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95523
 #EXTINF:-1 tvg-id="" tvg-name="ARG: C5N HD" tvg-logo="" group-title="Canales Pocholo",ARG: C5N HD
 http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95524
 #EXTINF:-1 tvg-id="" tvg-name="ARG: C5N FHD" tvg-logo="" group-title="Canales Pocholo",ARG: C5N FHD
