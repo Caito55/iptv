@@ -135,99 +135,128 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1657761390/ei/D
 
 #EXTINF:-1 group-title="Canales Pocholo" tvg-logo="https://yt3.ggpht.com/6-ovkJ4kVGq-byBEgD8s-7bXIX-GlS7VS86wS72wVriBOI7w8T6GsIAahiDBrO88o5Ov-q7L=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Canal 30 San Juan - RÁDIO
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1657761391/ei/DhrPYqTwPKWR6QL8_pP4Dw/ip/13.66.63.209/id/bOoA7f5HHYg.1/source/yt_live_broadcast/requiressl/yes/tx/24174783/txs/24174780%2C24174781%2C24174782%2C24174783%2C24174805%2C24210080/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-KhuM0hnxDMTP3bmuyJ1R6Gi_OuGE/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgaR1KjTZ2wcxDYFyefGODHTN_JVjkZrwu5PP2j-G4B6UCIDPxF6r8RJr-awllTgp17SdPBEiCh5NJAiH0zqPox_BL/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="Canales Pocholo", EL TRECE
+
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png",TN (YouT)
+plugin://plugin.video.youtube/play/?video_id=wHn1_QVoXGM
+
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",America TV
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+#Fuente: https://iptv-org.github.io/iptv/languages/spa.m3u
+
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",A24
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+#Fuente: https://iptv-org.github.io/iptv/languages/spa.m3u
+
+#EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Telefe_Rosario_%282018%29.png",TELEFE ROSARIO
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
+#Fuente: https://iptv-org.github.io/iptv/languages/spa.m3u
+
+#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG",C5N (YouT)
+plugin://plugin.video.youtube/play/?video_id=-vGhSrfKfUQ
+
+#EXTINF:-1 tvg-id="LNPlus.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png",LN+ (YouT)
+plugin://plugin.video.youtube/play/?video_id=HYxWurJ3ejE
+
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png",Cronica (YouT)
+plugin://plugin.video.youtube/play/?video_id=InSydaLSSlw
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/480px-Euronews._2016_alternative_logo.png",EuroNews (YouT)
+plugin://plugin.video.youtube/play/?video_id=fGxRI7cddzc
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1024px-Deutsche_Welle_symbol_2012.svg.png",DW Español (YouT)
+plugin://plugin.video.youtube/play/?video_id=bKpGAHgpYoU
+
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-id="45089" tvg-name="Canal 26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png", Canal 26
+http://200.115.193.177/live/26hd-720/.m3u8
+
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Telemax_Argentina_(2018).png",TeleMax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://github.com/arboldefideos/telecentro_chupala/blob/main/Logo_de_eltrece.png",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="08 | TNT SPORTS" tvg-logo="https://i.postimg.cc/rphNQBqZ/tnt-sport.jpg" group-title="Canales Pocholo",08 | TNT SPORTS
-http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/16848
-#EXTINF:-1 tvg-id="" tvg-name="10 | TNT SPORT 2" tvg-logo="https://i.postimg.cc/xdjPGfVb/tnt-sport-2.jpg" group-title="Canales Pocholo",10 | TNT SPORT 2
-http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/16850
-#EXTINF:-1 tvg-id="" tvg-name="11 | TNT SPORTS" tvg-logo="https://i.postimg.cc/rphNQBqZ/tnt-sport.jpg" group-title="Canales Pocholo",11 | TNT SPORTS
-http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/16851
-#EXTINF:-1 tvg-id="" tvg-name="ARG: A24" tvg-logo="" group-title="Canales Pocholo",ARG: A24
-http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95522
-#EXTINF:-1 tvg-id="" tvg-name="ARG: C5N HD" tvg-logo="" group-title="Canales Pocholo",ARG: C5N HD
-http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95524
-#EXTINF:-1 tvg-id="" tvg-name="ARG: C5N FHD" tvg-logo="" group-title="Canales Pocholo",ARG: C5N FHD
-http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95525
-#EXTINF:-1 tvg-id="" tvg-name="ARG: A24 HD" tvg-logo="" group-title="Canales Pocholo",ARG: A24 HD
-http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95526
-#EXTINF:-1 tvg-id="" tvg-name="ARG: America TV SD" tvg-logo="" group-title="Canales Pocholo",ARG: America TV SD
-http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95527
-#EXTINF:-1 tvg-id="" tvg-name="ARG: Television Publica HD" tvg-logo="" group-title="Canales Pocholo",ARG: Television Publica HD
-http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95530
-#EXTINF:-1 tvg-id="" tvg-name="ARG: El Nueve HD" tvg-logo="" group-title="Canales Pocholo",ARG: El Nueve HD
-http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95532
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS ARGENTINA HD OPCION 1" tvg-logo="https://i.postimg.cc/cJwSptxP/tnt-sport-argentina.jpg" group-title="Canales Pocholo"¸  DEPORTES LATINO",TNT SPORTS ARGENTINA HD OPCION 1
-http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/117752
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS ARGENTINA HD OPCION 2" tvg-logo="https://i.postimg.cc/cJwSptxP/tnt-sport-argentina.jpg" group-title=Canales Pocholo"¸  DEPORTES LATINO",TNT SPORTS ARGENTINA HD OPCION 2
-http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/117753
-#EXTINF:-1 tvg-id="" tvg-name="ARG: NET TV" tvg-logo="" group-title="Canales Pocholo",ARG: NET TV
-http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95510
-#EXTINF:-1 tvg-id="" tvg-name="ARG: LA NACION" tvg-logo="" group-title="Canales Pocholo",ARG: LA NACION
-http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95511
-#EXTINF:-1 tvg-id="" tvg-name="ARG: VOLVER*" tvg-logo="" group-title="Canales Pocholo",ARG: VOLVER*
-http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95512
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CINE ARGENTINO" tvg-logo="" group-title="Canales Pocholo",ARG: CINE ARGENTINO
-http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95513
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TIERRAMIA TV" tvg-logo="" group-title="Canales Pocholo",ARG: TIERRAMIA TV
-http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95514
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CONEXION" tvg-logo="" group-title="Canales Pocholo",ARG: CONEXION
-http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95517
-#EXTINF:-1 tvg-id="" tvg-name="ARG: C5N" tvg-logo="" group-title="Canales Pocholo",ARG: C5N
-http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95518
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ENCUENTRO" tvg-logo="" group-title="Canales Pocholo",ARG: ENCUENTRO
-http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95519
-#EXTINF:-1 tvg-id="" tvg-name="ARG: QUIERO MUSICA" tvg-logo="" group-title="Canales Pocholo",ARG: QUIERO MUSICA
-http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95520
-#EXTINF:-1 tvg-id="" tvg-name="ARG: 13 MAX HD" tvg-logo="" group-title="Canales Pocholo",ARG: 13 MAX HD
-http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95521
-#EXTINF:-1 tvg-id="" tvg-name="ARG: A24" tvg-logo="" group-title="Canales Pocholo",ARG: A24
-http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95522
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL 9 HD" tvg-logo="" group-title="Canales Pocholo",ARG: CANAL 9 HD
-http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95523
-#EXTINF:-1 tvg-id="" tvg-name="ARG: C5N HD" tvg-logo="" group-title="Canales Pocholo",ARG: C5N HD
-http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95524
-#EXTINF:-1 tvg-id="" tvg-name="ARG: C5N FHD" tvg-logo="" group-title="Canales Pocholo",ARG: C5N FHD
-http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95525
-#EXTINF:-1 tvg-id="" tvg-name="ARG: A24 HD" tvg-logo="" group-title="Canales Pocholo",ARG: A24 HD
-http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95526
-#EXTINF:-1 tvg-id="" tvg-name="ARG: America TV SD" tvg-logo="" group-title="Canales Pocholo",ARG: America TV SD
-http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95527
-#EXTINF:-1 tvg-id="" tvg-name="ARG: Television Publica HD" tvg-logo="" group-title="Canales Pocholo",ARG: Television Publica HD
-http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95530
-#EXTINF:-1 tvg-id="" tvg-name="ARG: El Nueve HD" tvg-logo="" group-title="Canales Pocholo",ARG: El Nueve HD
-http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95532
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-c1tQj7-qPkg/YUDkxJFOB8I/AAAAAAAAAOw/QlkimYlh_Mc4IQrr8g6488Xc64HVeJV2gCLcBGAsYHQ/h120/El_Trece.png" group-title="(CABLE)" , ElTrece https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/El_Trece/SA_HLS/El_Trece-avc1_5999616=17-mp4a_65000_spa=29.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-b2keOX5lUv4/YUDkI5UqpzI/AAAAAAAAAOo/I1NXuVoeXKIG-zh2E3nh6QqvhjY_kpq4wCLcBGAsYHQ/h120/Telefe.png" group-title="(CABLE)" , Telefe https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe-avc1_5999616=15-mp4a_60000_spa=19.m3u8
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Informaci%C3%B3n_Period%C3%ADstica#/media/Archivo:Informaci%C3%B3n_Period%C3%ADstica_IP_Logo.svg",IP TV
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=729984.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg6hbCXLTJwlGJnJAjwhhxkuUFYKHZloh4jkmaSLF8YTBQ3FvHntXettbZkvGWGCxptJR2G2BbydUXMu2Ua5ow0N0-v7a3d_6iL0AfDD9nLZzGhvh31AfwKqB5p76OrnFiPdNGIwcVPCJWRe7MgLEhi8iJdtYWcZvmJ1aIMMH7VyjIX4FtT4ICnitvN" group-title="(CABLE)" , America tv https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America-avc1_5999616=6-mp4a_63000_spa=9.m3u8
+#EXTINF:-1 tvg-logo="https://canal5tigretv.com.ar/static/custom/logo-grande.png",5TV (Tigre)
+https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/elnueve_.png" group-title="(CABLE)" , EL NUEVE https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/2aa73334-cc17-4f94-be98-1a7e07774eed/4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FscV0as.png",Tierramia TV (Opcion 1)
+https://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w68879463_b1864000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-x6JNcq2aLCg/YtQgLsrRQKI/AAAAAAAAAqo/_sLdYldWdig0bMS-zrJkYdyOnJJ6uvF6wCNcBGAsYHQ/h120/ver-tv-publica-canal-7-argentina-en-vivo.jpg" group-title="(CABLE)" , TV Publica https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Tv_Publica/SA_HLS/Tv_Publica-avc1_5999616=18-mp4a_63000=20.m3u8
+#EXTINF:-1 tvg-id="80293" tvg-name="Terramia TV" tvg-logo="https://i.imgur.com/FscV0as.png", Terramia TV (Opcion 2)
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/canal26_.png" group-title="(NOTICIAS)" , CANAL 26 HD https://live-edge01.telecentro.net.ar/live/smil:c26.smil/master.m3u8
+#EXTINF:-1 tvg-id="MusicTop.ar" tvg-logo="https://i.imgur.com/dKpLbh6.png",Music Top (Opcion 1)
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/telemax_.png" group-title="(CABLE)" , telemax https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1523649287_b1828000_sleng.m3u8
+#EXTINF:-1 tvg-id="MusicTop.ar" tvg-name="Music Top" tvg-logo="https://i.imgur.com/dKpLbh6.png", Music Top (Opcion 2)
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/musictop_.png" group-title="(MUSICA)" , musictop https://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canal5tigretv.com.ar/static/custom/logo-grande.png",5TV (Tigre)
+https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/tyc_.png" group-title="(DEPORTES)" , tyc sports https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_2.m3u8
+#EXTINF:-1 tvg-logo="",TV Publica
+https://g2.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-5GVI6jDtTwg/YaW15LD6VJI/AAAAAAAAAUk/UjYya0ti1Lg2wF3ucaU_29wjHipI2e-fQCLcBGAsYHQ/h1280/ver-fox-sports-premium-hd-en-vivo-television-libre.png" group-title="(DEPORTES)" , ESPN Premium https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Fox_Sport_Premium/SA_HLS/Fox_Sport_Premium-avc1_5999616=9-mp4a_65000=12.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6miysb8.png",24/7 Canal de Noticias (Neuquen)
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-w1AMZXpwKMY/Yrtj1-e6z2I/AAAAAAAAAmg/5F2JnuuiSeYqVJ-so75-mqQc4gKfIaSLACNcBGAsYHQ/h120/tnt-sports-en-vivo.jpg" group-title="(DEPORTES)" , TNT Sports https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports-avc1_5999616=19-mp4a_54000_spa=28.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCQJuaU.jpg",5RTV (Santa Fe)
+http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4ajwj-McOpemqJeAmvE1HbNFy-drVqZjEwcL8D0unYlpPzznHYl3cV6Mvv3R98AaVF_NEtFYzijgk8jtAnGQv79Sa0oZNpvZDIw3QMiWCt7oHFVCN0nvujAvmfajgtqgOjImXVcI2tp7YJ1YkHGJKzZHosg9Oxhy8fRDh1MzFGa90BV-Qe-Tf9WWN/s1600/ver-espn-en-vivo.jpg" group-title="(DEPORTES)" , ESPN https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN-avc1_5999616=6-mp4a_63000_spa=20.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png",France 24 Francia
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6C2bLOfzKQdhZKtm9fpI6ZHOZIo-QVo3HDHFW7wSTxB_zOySVAXLixAtUHmLtd5NI5sXf5OBZCv7eWhNPmBqCfewYnUBR8ZR-Uwk8BkNY9ZGwRb0LgCvrxKT_O2ocOTzsA_ihT8u9Vv8ggJW77NYKqYZKAHFMUdBShrGhFadrwlDvmoGz2TQQeGbB/s1600/ver-espn-2-en-vivo.jpg" group-title="(DEPORTES)" , ESPN 2 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2-avc1_5999616=6-mp4a_61000_eng=23.m3u8
+#EXTINF:-1 tvg-logo="",Canal Encuentro
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0036
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpQGxJxAzdlscYicMUheEfA0a2k3CvigLOkc14QDdnSHMLjopwnp1R8rVEKOKeekquirgN_UCjUQsJHNY04Hs0MWAa3IEO4Gg3vV90n4-KqspBAZoOAWWwU73KsbmEv4T4u-C7vpqDJIuOlMxtVKgl-uhZCVKVfqHKdPCBGHmlVfcI1Evb5A0zAvu7/s1600/ver-espn-3-en-vivo.jpg" group-title="(DEPORTES)" , ESPN 3 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3-avc1_5999616=12-mp4a_68000_spa=4.m3u8
+#EXTINF:-1 tvg-logo="https://tv.unlp.edu.ar/wp-content/uploads/2018/10/tvulogotexto.png",TVU (Universidad de La Plata)
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/tyc-sports-play-2288.jpg" group-title="(DEPORTES)" , tyc sports PLAY https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
+#EXTINF:-1 tvg-id="Cinear.ar" tvg-logo="https://es.wikipedia.org/wiki/CINE.AR_Play#/media/Archivo:CINEARLogo.png",Cine.Ar
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0040
 
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/foxsports2_.png" group-title="(DEPORTES)" , fox sport2 mexico https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index_148.m3u8
+#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade en Español (1080p)
+#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade en Español (1080p)
+https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.elrural.com/wp-content/uploads/2016/05/cropped-favicon.png" group-title="(DOCUMENTAL)" , Canal Rural https://cda2.alsolnet.com/elrural/live/chunklist_w905857316.m3u8
+#EXTINF:-1 tvg-logo="",Canal de la Musica
+http://g3.vxral-slo.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
+
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="",DeporTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w332315447.m3u8
+
+#EXTINF:-1 tvg-id="ElGourmetSur.ar" tvg-logo="",El Gourmet
+https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
+
+#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-logo="",PakaPaka
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w352966256.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Logo_AM-sports-2019.svg/1024px-Logo_AM-sports-2019.svg.png", America Sports
+plugin://plugin.video.youtube/play/?video_id=Vt1WxzV3BkM
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="",MTV Biggest Pop
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+
+#EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="",TeleSur
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", La Delio Valdez 
+plugin://plugin.video.youtube/play/?video_id=xblYyYgzXb4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Radio-Disney.png" radio="true",Radio Disney
+https://24253.live.streamtheworld.com/DISNEY_ARG_BA.mp3?dist=web-radiodisney-disneylatino
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Popradio.gif" radio="true",POP Radio
+https://ny2.stweb.tv/popradio/live32/chunks.m3u8?nimblesessionid=89470573
+
+#EXTINF:-1 tvg-logo="" radio="true",Radio Mitre
+https://cdns-am79056-1.planisys.net/hls/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="", radio="true", Radio Rivadavia
+plugin://plugin.video.youtube/play/?video_id=wje4a1FABJ8
