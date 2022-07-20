@@ -136,14 +136,14 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1657761390/ei/D
 #EXTINF:-1 group-title="Canales Pocholo" tvg-logo="https://yt3.ggpht.com/6-ovkJ4kVGq-byBEgD8s-7bXIX-GlS7VS86wS72wVriBOI7w8T6GsIAahiDBrO88o5Ov-q7L=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Canal 30 San Juan - RÁDIO
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1657761391/ei/DhrPYqTwPKWR6QL8_pP4Dw/ip/13.66.63.209/id/bOoA7f5HHYg.1/source/yt_live_broadcast/requiressl/yes/tx/24174783/txs/24174780%2C24174781%2C24174782%2C24174783%2C24174805%2C24210080/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-KhuM0hnxDMTP3bmuyJ1R6Gi_OuGE/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgaR1KjTZ2wcxDYFyefGODHTN_JVjkZrwu5PP2j-G4B6UCIDPxF6r8RJr-awllTgp17SdPBEiCh5NJAiH0zqPox_BL/file/index.m3u8
 
-#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png",TN (YouT)
+#EXTINF:-1  group-title="Canales Pocholo" tvg-id="TN.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png",TN (YouT)
 plugin://plugin.video.youtube/play/?video_id=wHn1_QVoXGM
 
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",America TV
+#EXTINF:-1 group-title="Canales Pocholo"  tvg-id="AmericaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",America TV
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 #Fuente: https://iptv-org.github.io/iptv/languages/spa.m3u
 
-#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",A24
+#EXTINF:-1 group-title="Canales Pocholo"  tvg-id="A24.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",A24
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 #Fuente: https://iptv-org.github.io/iptv/languages/spa.m3u
 
@@ -172,7 +172,7 @@ http://200.115.193.177/live/26hd-720/.m3u8
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Telemax_Argentina_(2018).png",TeleMax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://github.com/arboldefideos/telecentro_chupala/blob/main/Logo_de_eltrece.png",El Trece
+#EXTINF:-1 group-title="Canales Pocholo"  tvg-id="ElTrece.ar" tvg-logo="https://github.com/arboldefideos/telecentro_chupala/blob/main/Logo_de_eltrece.png",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png",Net TV
@@ -258,5 +258,5 @@ https://ny2.stweb.tv/popradio/live32/chunks.m3u8?nimblesessionid=89470573
 #EXTINF:-1 tvg-logo="" radio="true",Radio Mitre
 https://cdns-am79056-1.planisys.net/hls/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="", radio="true", Radio Rivadavia
+#EXTINF:-1  tvg-logo="", radio="true", Radio Rivadavia
 plugin://plugin.video.youtube/play/?video_id=wje4a1FABJ8
