@@ -29,6 +29,10 @@ https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Disney_Channel/SA_HLS/Disney_Channel.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="TV",Canal 13
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="El Trece" group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" , EL TRECE TESTE 2
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v2a1/mono.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:104.0) Gecko/20100101 Firefox/104.0
+
 #EXTINF:-1 tvg-id="" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="TV",Telefe
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/A24-logo.svg" group-title="TV",A24
@@ -338,13 +342,6 @@ https://raw.githubusercontent.com/guiworldtv/MEU-IPTV-FULL/main/VideoOFFAir.m3u8
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/6-ovkJ4kVGq-byBEgD8s-7bXIX-GlS7VS86wS72wVriBOI7w8T6GsIAahiDBrO88o5Ov-q7L=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Canal 30 San Juan - RÁDIO
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1662354418/ei/ki8VY_fuMY76igTAi5zAAw/ip/20.225.146.177/id/beP1ETQniXU.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgYqRlm0cnauH9_eYhtXaRZwwI-YXFe0DnaHcTX9waRGACIGVS-KEPG2zLAYa2DZ4IxsqViha8rEF_OwNcD7ZI8ahY/file/index.m3u8
 
-###########################################################################
-#                                                                         #
-#                                  >> https://github.com/guiworldtv       #
-###########################################################################
-
-#EXTM3U
-
 #EXTINF:-1 tvg-id="Telefe" tvg-id="Telefe.ar" tvg-logo="https://www.elnueve.com.ar/_next/image?url=%2Flogo%2FlogotipoC9.png&w=256&q=75" group-title="ARGENTINA",EL NUEVE  
 https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/.m3u8
 
@@ -353,17 +350,6 @@ https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IS4LViL.png" group-title="Argentina",El Nueve 3
 https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/El_Nueve/SA_HLS/El_Nueve.m3u8
-
-#EXTINF:-1 tvg-id="El Trece" group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" , EL TRECE 
-https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/El_Trece/SA_HLS/El_Trece.m3u8
-
-
-#EXTINF:-1 tvg-id="El Trece" group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" , EL TRECE TESTE 1
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:104.0) Gecko/20100101 Firefox/104.0
-
-
-#EXTINF:-1 tvg-id="El Trece" group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" , EL TRECE TESTE 2
-https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v2a1/mono.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:104.0) Gecko/20100101 Firefox/104.0
 
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="http://x.playerlatino.live/telefe.png" group-title="Argentina", TELEFE 
@@ -451,11 +437,6 @@ CANAL 9 35.1 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amaz
 
 
 
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1344843564535132160/xT96d8Zv_400x400.jpg" group-title="(CABLE)", 
-CANAL 13 33.1 # https://cvi.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1344843564535132160/xT96d8Zv_400x400.jpg" group-title="(CABLE)", 
-CANAL 13 33.1 # https://delivery.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-TgZv-RGCYoc/XrYHwcpfivI/AAAAAAAA0gw/AuqgxhioqLc1qhSHFDdH1ZftA0PKvOnzQCK8BGAsYHg/s0/2020-05-08.jpg" group-title="(CABLE)", 
 9LINK CHACO http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
