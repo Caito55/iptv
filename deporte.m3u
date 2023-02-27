@@ -1,3 +1,13 @@
+#EXTINF:-1 ,TyC Sports HD
+http://181.39.202.98:9993/play/a17z/index.m3u8
+#EXTINF:-1 ,4012 Univision HD
+http://181.78.1.217:8146/play/a07s/index.m3u8
+
+
+#EXTINF:-1 ,HBO XTREME HD
+http://181.39.202.98:9993/play/a19u/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fNr2Im6.png" group-title="EVENTOS DEPORTIVOS", CHV Deportes
 https://siloh-latam-aka.plutotv.net/lilo/production/CopaLibertadores/CHILE/24-7/master.m3u8
 
