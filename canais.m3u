@@ -9,6 +9,9 @@ http://181.39.202.98:9993/play/a17z/index.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png" group-title="CINE PREMIUM", ACCIÓN
 http://181.39.202.98:9993/play/a19u/index.m3u8
 
+#EXTINF:-1 tvg-logo= group-title="CINE PREMIUM", ACCIÓN
+https://video-weaver.sao05.hls.ttvnw.net/v1/playlist/CqUFA73IVOKbQBr8tF2QdmGGDR_4sz6SY-a0E3mtlI5HePKBwnJ5S1RxgZL69d6JAaZen7X64IkbTC50H7iFQ-s7zyf9J6WGn1R3qRacx5DExbOSSuZnze8SzTvbN39xrlVhfPuf3CfqLb2vmgkJmJHf-qWEGfll5YMTVlyfk-9wxZtvomg93mvM1816zCeUF69nx0RTgqrZ0W44iGADYz4i9beWriSTePdFk3PCUGwbLwopyNQfF7Ud6e34gmxvKHZvlLE_rlXCDMFg3ayj2hk5Pqxkh8jgmUskt7icp4Yqy4dAA6TkCxTXxV0rAm-kdgMZUdQ9QZPsyhDs1-F6wquJMX9s5oNUQWyEvCydlX0zsJrCRFqIcvXrpfHWLoF_LPUxKIcyhKip3rRok2ZWmSDsIsZuUvmqxvGBqHpgmCVY22NBcVL4vgSOOS19pKNkHVaetpjaU6e9Uz7NFd0TNLjuM3_N9M8Rum3NfPScd5NnZ66BGwQgT10Th76xpXRK3HrgWO_CBnqplb8ipMkERtbMHdgNY2fDMQ5jZwtUrb8C0uZ_GmBdoVMZZ_JGL42pPoOdNk7-kPjeyRG0oZTgz9cowTuwoMSU4nf-JlX4Db-iOoFJ-7sVzj_aAZVe40aavVsYIAf_HVwXYcreNQp7bo8mEEgs28drIyH7jBC-b_ln_B-JpZm6KEBnRpEWK3WzmghQ99DygeX8mkhu4QRaEctEmfnSdlQ3Dbz0rSs80fILwe8Zv6yJDwN2G8yOZyDlpBE9Xr-_6H9Tq0olfxyzMtGz8ZMtZED6xfbBkP7b8iUQiDhtbl8xAjkmdqoNEhdP9HKMA2CDE8w_IBs0Fr3la5x4mlnvhV6dLRD7fwc2d7_AwDf4x_o2YL_4BkrzRpx-MKNPA7iB-_AaDLf6kbEJT3ZS6gqUHiABKglldS13ZXN0LTIwwwY.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="ARGENTINA", Canal 13
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
