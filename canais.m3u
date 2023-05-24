@@ -1,8 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
-https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
-
+#EXTINF:-1 group-title="Argentina", America tv en vivo youtube
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1684986986/ei/CohuZLjSIc3WwwSxvrbQBQ/ip/2804%3A14d%3Abaa7%3A9dd2%3A8176%3Aebed%3A1339%3Af24e/id/zcWXboTnous.3/source/yt_live_broadcast/requiressl/yes/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/br/hightc/yes/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000011%2C51000012%2C51000022/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Chightc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJ71dVLEWfPA1g_aBGCv6LghEH0ZJDNwFF56t7BQm3hZAiEA1MVOVO6kziKCTa2Tr7ZJPdKNT0_3_goLzofnhD28nSs%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TyC Sports HD
 http://181.39.202.98:9993/play/a17z/index.m3u8
 
