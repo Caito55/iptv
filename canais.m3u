@@ -100,7 +100,40 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussen
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIH7IvWdyWkBaji8f9hOUZjJVebklrkwkxhQwQwSlECCtRr4H&s" group-title="ARGENTINA", GENTV 17.3 TDA HD
 https://inliveserver.com:1936/14056/14056/chunklist_w513681279.m3u8
-
+#EXTINF:-1 tvg-id="XtremaAccion.ar",Xtrema Cine Acción (268p) group-title="CINE PREMIUM"
+https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaAnimal.ar",Xtrema Animal (360p) group-title="CINE PREMIUM"
+https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaAnime.ar",Xtrema Anime (360p) group-title="CINE PREMIUM"
+https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaAsia.ar",Xtrema Cine Asia (268p) group-title="CINE PREMIUM"
+https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaCartoons.ar",Xtrema Cartoons (360p) group-title="CINE PREMIUM"
+https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaComedy.ar",Xtrema Cine Comedy (344p) group-title="CINE PREMIUM"
+https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaDrama.ar",Xtrema Cine Drama (360p) group-title="CINE PREMIUM"
+https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaEuropa.ar",Xtrema Cine Europa (360p) group-title="CINE PREMIUM"
+https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaFamily.ar",Xtrema Cine Family (274p) group-title="CINE PREMIUM"
+https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaHindi.ar",Xtrema Cine Hindi (272p) group-title="CINE PREMIUM"
+https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaLatina.ar",Xtrema Cine Latino (360p) group-title="CINE PREMIUM"
+https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaRetroCartoons.ar",Xtrema Retro Cartoons (360p) group-title="CINE PREMIUM"
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaRetroSeries.ar",Xtrema Retro Series (360p) group-title="CINE PREMIUM"
+https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaSeries.ar",Xtrema Series (360p) group-title="CINE PREMIUM"
+https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaSuspenso.ar",Xtrema Cine Suspenso (360p) group-title="CINE PREMIUM"
+https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaTerror.ar",Xtrema Cine Terror (270p) group-title="CINE PREMIUM"
+https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
+#EXTINF:-1 tvg-id="ZondaTV.ar",Zonda TV [Geo-blocked] group-title="CINE PREMIUM"
+https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Metro-TV-Canal-12-Tucuman-en-vivo-Online.png" group-title="ARGENTINA", METRO TV TUCUMÁN
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
