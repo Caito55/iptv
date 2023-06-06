@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="CartoonNetworkMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network México (720p)
+#EXTINF:-1 tvg-id="CartoonNetworkMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="ARGENTINA",Cartoon Network México (720p)
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-id="AmericaTV.ar",América TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="AmericaTV.ar",América TV (1080p) [Not 24/7] group-title="ARGENTINA"
 https://ythls.onrender.com/channel/UC6NVDkuzY2exMOVFw4i9oHw.m3u8
-#EXTINF:-1 tvg-id="ElTrece.ar",El Trece (1080p)
+#EXTINF:-1 tvg-id="ElTrece.ar",El Trece (1080p) group-title="ARGENTINA"
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1 tvg-id="ElNueve.ar",El Nueve (1080p)
+#EXTINF:-1 tvg-id="ElNueve.ar",El Nueve (1080p) group-title="ARGENTINA"
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TyC Sports HD
 http://181.39.202.98:9993/play/a17z/index.m3u8
