@@ -1,4 +1,6 @@
-#EXTM3U 
+#EXTM3U
+#EXTINF: -1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_cartoon-network_s.png" group-title="Premium", Cartoon Network
+http://satelital.es:8080/aSPEhQ2MBU4H/fjVGTv8AMn/3339
 #EXTINF: -1 tvg-logo="https://play-lh.googleusercontent.com/eDsPyRwI0FOOv8vyR2wGI17wFGht8iZqh2pfWJ7ZwBbaFg-d9aLuVw55Foe3Odw4tA=w240-h480-rw" group-title="Formosa", Argenfor
 https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://play-lh.googleusercontent.com/vNpmF0kJC9hFLnUNfcYO6WfdE0FHX-4JzF_EUBk6OJy24nBMo8JfQS7Hya9N9KlXA9g" group-title="Formosa", lapacho
@@ -517,8 +519,6 @@ http://live.raptortv.one:8080/jfrance27/Peq3Prx9aH/574315
 http://satelital.es:8080/aSPEhQ2MBU4H/fjVGTv8AMn/3341
 #EXTINF: -1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_disney_s.png" group-title="Premium", Disney Chanel
 http://satelital.es:8080/aSPEhQ2MBU4H/fjVGTv8AMn/3355
-#EXTINF: -1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_cartoon-network_s.png" group-title="Premium", Cartoon Network
-http://satelital.es:8080/aSPEhQ2MBU4H/fjVGTv8AMn/3339
 #EXTINF: -1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_history_s.png" group-title="Premium", History
 http://likea8bitboss.xyz:80/Dpride254/5683704192/775833
 #EXTINF: -1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_cinecanal-1_s.png" group-title="Premium", Cinecanal
