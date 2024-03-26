@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Reproductor IPTV</title>
+<link href="https://vjs.zencdn.net/7.14.3/video-js.css" rel="stylesheet">
+<script src="https://vjs.zencdn.net/7.14.3/video.min.js"></script>
+<style>
+  #video-container {
+    margin: 20px auto;
+    width: 640px;
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+
+<div id="video-container">
+  <video id="iptv-player" class="video-js vjs-default-skin" controls>
+    <source src="https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8" type="application/x-mpegURL">
+    Tu navegador no soporta la reproducción de IPTV.
+  </video>
+  <br>
+  <button id="play-btn">Play</button>
+  <button id="stop-btn">Stop</button>
+  <button id="prev-btn">Anterior</button>
+  <button id="next-btn">Siguiente</button>
+</div>
+
+<div id="video-container">
+  <video id="iptv-player1" class="video-js vjs-default-skin" controls>
+    <source src="https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8" type="application/x-mpegURL">
+    Tu navegador no soporta la reproducción de IPTV.
+  </video>
+  <br>
+  <button id="play-btn">Play</button>
+  <button id="stop-btn">Stop</button>
+  <button id="prev-btn">Anterior</button>
+  <button id="next-btn">Siguiente</button>
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const video = videojs("iptv-player");
+    const playBtn = document.getElementById("play-btn");
+    const stopBtn = document.getElementById("stop-btn");
+    const prevBtn = document.getElementById("prev-btn");
+    const nextBtn = document.getElementById("next-btn");
+
+    // Evento click para el botón de reproducir
+    playBtn.addEventListener("click", function() {
+      video.play();
+    });
+
+    // Evento click para el botón de detener
+    stopBtn.addEventListener("click", function() {
+      video.pause();
+      video.currentTime(0);
+    });
+
+    // Evento click para el botón de canal anterior
+    prevBtn.addEventListener("click", function() {
+      // Aquí puedes escribir el código para cambiar al canal anterior
+      alert("Cambiar al canal anterior");
+    });
+
+    // Evento click para el botón de canal siguiente
+    nextBtn.addEventListener("click", function() {
+      // Aquí puedes escribir el código para cambiar al canal siguiente
+      alert("Cambiar al siguiente canal");
+    });
+  });
+</script>
+
+</body>
+</html>
