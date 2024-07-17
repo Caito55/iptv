@@ -445,11 +445,6 @@ https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_3.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream_3.m3u8
 #EXTINF: -1 tvg-logo="https://www.telered.com.ar/img/logos_ch/logo-adult-swim.png" group-title="Adult swing", robot chicken
 https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_3.m3u8
-#EXTINF: -1 tvg-logo="https://cdn.vaughnsoft.net/profile/1400/futurama_mania.jpg" group-title="vaughn.live", Futurama
-https://stream-cdn-iad2.vaughnsoft.net/play/live_futurama_mania_.flv
-#EXTINF: -1 tvg-logo="https://cdn.vaughnsoft.net/profile/1400/simpson_maniahd189.jpg" group-title="vaughn.live", Simpson
-https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd189.flv
-https://stream-cdn-iad.vaughnsoft.net/play/live_drmedia.flv
 #EXTINF: -1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_sony_s.png" group-title="Premium", Sony
 http://satelital.es:8080/aSPEhQ2MBU4H/fjVGTv8AMn/7261
 #EXTINF: -1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_space_s.png" group-title="Premium", Space
